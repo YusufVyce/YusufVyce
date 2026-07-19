@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Yusuf 👋
 
-<!--
-**YusufVyce/YusufVyce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder and Lead Developer at **VYCE Studios**. I specialize in full-stack web development and Roblox game engine architecture. My focus is on creating scalable systems and optimizing game performance.
 
-Here are some ideas to get you started:
+### 🛠 Technical Skills
+* **Languages & Frameworks**: TypeScript, Luau, JavaScript.
+* **Game Development**: Roblox Studio, complex UI design, and environment scripting.
+* **Backend & Tools**: Serverless architecture, API integration, and performance optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+* [**Error Parser & Solution Guide**](https://github.com/YusufVyce/error-parser-solution-guide): A serverless utility designed for automated root-cause analysis of development console errors in Roblox, Unity, and Discord.js.
+
+### 📈 GitHub Stats
+![My Stats](https://github-readme-stats.vercel.app/api?username=YusufVyce&show_icons=true&theme=radical&hide_border=true)
+
+---
+*Feel free to reach out for collaboration or professional inquiries.*
